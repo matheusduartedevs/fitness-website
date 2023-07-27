@@ -1,8 +1,8 @@
-import React from 'react'
-
 const App = () => {
   return (
-    <div>App</div>
+    <div className='app bg-gray-20'>
+      app
+    </div>
   )
 }
 
